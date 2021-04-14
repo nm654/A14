@@ -1,0 +1,26 @@
+/* for a14
+Guess I'll just make them all look similar to one another from the Town Hall Projects
+*/
+
+*{
+    margin:0;
+    padding:0;
+}
+
+html {
+    background-color: white;
+}
+
+header h1{
+
+	padding-top: .3em;
+	padding-bottom: .3em;
+}
+
+/* the styles for the elements */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    margin: 0 auto;
+
+}
